@@ -1,5 +1,5 @@
 # This Repo contains a refactored version of the Intel Analog Gauge Demo, Simplified to 1 file
-Cole W. 10.14.24
+Cole W. 10.14.24 <br/>
 [Original Intel Webpage](https://www.intel.com/content/www/us/en/developer/articles/technical/analog-gauge-reader-using-opencv.html)
 
 # DISCONTINUATION OF PROJECT #
