@@ -1,4 +1,4 @@
-# This Repo contains an updated single file version of the Intel Analog Gauge Demo
+# This Repo contains a refactor single file version of the Intel Analog Gauge Demo - Cole W. 10.14.24
 
 # DISCONTINUATION OF PROJECT #
 This project will no longer be maintained by Intel.
